@@ -73,4 +73,7 @@ This project involves creating a data pipeline for Frostbyte Tasty Bytes, levera
 
   <img width="1001" alt="Tastybytes_dashboard" src="https://github.com/user-attachments/assets/c981c141-6ba7-4549-a95b-318045c4a430">
 
+  ## Conclusion
+In this project, we captured semi-structured data from TastyBytes food trucks and enriched it with geospatial and weather data from the Snowflake Marketplace. By incorporating this additional data, we identified correlations between food sales and weather conditions. Finally, we visualized the data using Tableau, enabling us to quickly derive valuable insights and make data-driven decisions.
+
   
